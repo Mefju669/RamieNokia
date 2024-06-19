@@ -1,3 +1,1 @@
-# project_NOKIA
-Designing 5G network
-Well, writing web application actually.. anyway.
+Stary nieaktualny projekt, aktualny jest w repo Aplikacja Streamingowa, usunie się jak będzie ostateczna wersja sklecona, może coś się jeszcze stąd przyda.
